@@ -11,7 +11,6 @@
 <iframe src='dsc90-wi22-hw06/plotly-fig1.html' width=800 height=600 frameBorder=0></iframe>
 <br>
 ##Question 3
-This graph shows the population in each department in France.
+##This graph shows the population in each department in France.
 <iframe src='dsc90-wi22-hw06/plotly-fig2.html' width=800 height=600 frameBorder=0></iframe>
 <br>
-
