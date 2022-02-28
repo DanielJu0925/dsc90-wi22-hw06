@@ -1,5 +1,7 @@
 #Homework 6 - History of Data Science
 ##Zhuoxuan Ju(zju@ucsd.edu)
+<br>
+<br>
 ##Question 1
 ##This graph shows the death at each location which sort by death and the location of the pump
 <iframe src='dsc90-wi22-hw06/snow-map.html' width=800 height=600 frameBorder=0></iframe>
