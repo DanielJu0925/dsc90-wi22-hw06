@@ -7,8 +7,8 @@
 
 ##Question 2
 ##This graph shows the relationship between children's height with their parents.
-<iframe src='/galton-scatter.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='galton-scatter.html' width=800 height=600 frameBorder=0></iframe>
 
 ##Question 3
 ##This graph shows the population in each department in France.
-<iframe src='/france-pop.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='france-pop.html' width=800 height=600 frameBorder=0></iframe>
